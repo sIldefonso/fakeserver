@@ -1,5 +1,5 @@
 {
-  "network": {
+  [
     "1": {
       "id": "1",
       "name": "Polygon"
@@ -8,5 +8,5 @@
       "id": "2",
       "name": "Ethereum"
     }
-  }
+  ]
 }
