@@ -10,3 +10,20 @@
     }
     ]
 }
+
+{
+   "collections":[
+      {
+         "id":"1",
+         "name":"Coffee Cup Collection Set",
+         "link":"",
+         "networkid":"1"
+      },
+      {
+         "id":"2",
+         "name":"Ethereum",
+         "link":"",
+         "networkid":"1"
+      }
+   ]
+}
