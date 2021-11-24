@@ -14,14 +14,22 @@
       {
          "id":"1",
          "name":"Coffee Cup Collection Set",
-         "link":"",
+         "link":"https://opensea.io/collection/coffee-cup",
          "networkid":"1"
       },
       {
          "id":"2",
-         "name":"Ethereum",
-         "link":"",
+         "name":"Stick Puppet",
+         "link":"https://opensea.io/collection/stick-puppet",
          "networkid":"1"
       }
+   ]
+,
+    "nfts":[
+         "id":"4",
+         "name":"Stick Puppet #004",
+         "link":"https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/105240626053438112931321145275640330372743658889365793871770818310289099849729",
+         "collectionid":"2",
+         "value":"0.025"
    ]
 }
